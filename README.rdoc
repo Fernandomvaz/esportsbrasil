@@ -24,4 +24,7 @@ Things you may want to cover:
 * ...
 
 This will be a web page to display stuff about esports to brazil
+
+
+testing new change in this test_branch
 <tt>rake doc:app</tt>.
